@@ -14,8 +14,6 @@ Clone this repository into ST's Packages folder. On MacOS, this is usually `"/Us
 
 It will automatically pick up `*.s` and `*.goasm` files. The latter is made-up as a way to disambiguate assembly formats.
 
-Related: since you're using Sublime Text with Go, consider a better Go syntax: https://github.com/Mitranim/sublime-gox. Also consider this syntax definition for `go.mod` files: https://github.com/Mitranim/sublime-gomod.
-
 ## Getting Started
 
 Read this documentation on Go assembly: https://golang.org/doc/asm.

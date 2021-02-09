@@ -15,7 +15,7 @@ variables:
 contexts:
   main:
     - match: ^#.*
-      scope: comment.line.module.goasm
+      scope: comment.line.preface.goasm
       set: match-any
     - match: ''
       set: match-any
